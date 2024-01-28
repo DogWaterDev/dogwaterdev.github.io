@@ -104,6 +104,8 @@ a:hover
 
 .navbar 
 {
+    display: flex;
+    flex-direction: row;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
     border: 1px solid salmon;
